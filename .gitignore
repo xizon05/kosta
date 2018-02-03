@@ -11,3 +11,5 @@ Doc/*.txt
 
 #doc 아래 *.txt 무시
 doc/**/*.txt
+
+~*
