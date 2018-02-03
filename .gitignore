@@ -13,3 +13,4 @@ Doc/*.txt
 doc/**/*.txt
 
 ~*
+/*.log
