@@ -6,8 +6,4 @@ sdsfsdfsfds
 
 dfgdf
 
-<<<<<<< HEAD
-Change New Master
-=======
 New files Change
->>>>>>> server
