@@ -1,0 +1,19 @@
+gitlab 설치 절차
+
+1. Docker  를 설치한다.
+
+2. Java
+
+3. Tomcat
+
+
+* Docaker Image --> Container
+
+
+
+*** Docker image 구글 검색
+
+docker ... >>>
+
+
+docker git lab
